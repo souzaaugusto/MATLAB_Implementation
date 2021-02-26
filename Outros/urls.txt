@@ -1,0 +1,7 @@
+https://www.mathworks.com/videos/using-matlab-with-python-1591216182793.html?s_v1=34589&elqem=3252609_EM_NA_LWB_20-12_USING-MATLAB-WITH-PYTHON_POST&s_tid=srchtitle&elqTrackId=1da6d415d924424089b870296c5d332b&elq=44b6b7fc57ec4b68b5753a1d73d9bdc3&elqaid=34589&elqat=1&elqCampaignId=12552
+
+https://www.mathworks.com/help/roadrunner/ug/Exporting-to-CARLA.html
+
+https://www.mathworks.com/help/driving/ug/3d-simulation-for-automated-driving.html
+
+https://www.mathworks.com/help/driving/unreal-engine-scenario-simulation.html
